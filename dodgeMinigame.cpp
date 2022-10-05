@@ -114,4 +114,5 @@ int main()
         }
             EndDrawing();
     }
+    CloseWindow();
 }
